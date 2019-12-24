@@ -7,6 +7,7 @@ Write a Python Program to generate a logic for Password Validator.
 3. Write Positive and Negative Unit TestCases.
 
 Steps:-
+
 1. We have to take the input from user using ArgParse Module
 2. Create Logging Configuration object for saving the Events.
 3. Create PasswordValidator Class
@@ -14,7 +15,10 @@ Steps:-
 5. Call all the methods for checking for Valid Password String.
 6. Write all the Positive and Negative Test Cases for each of the methods defined.
 
+
+
 Help File:-
+
 
 (base) C:\Users\admin\PycharmProjects\PasswordValidator>python validator.py -h
 usage: validator [-h] -p PASSWORD
@@ -33,11 +37,15 @@ Required Named Argument.:
   -p PASSWORD, --p PASSWORD
                         Please enter the Password
 
+
+
 Execution:-
 
 (base) C:\Users\admin\PycharmProjects\PasswordValidator>python validator.py -p Wel@1234
 24-Dec-19 22:21:35 - Password entered by User: Wel@1234
 24-Dec-19 22:21:35 - Valid Password, All checks done!!
+
+
 
 Test Case Execution:-
 
