@@ -15,6 +15,7 @@ Steps:-
 6. Write all the Positive and Negative Test Cases for each of the methods defined.
 
 Help File:-
+
 (base) C:\Users\admin\PycharmProjects\PasswordValidator>python validator.py -h
 usage: validator [-h] -p PASSWORD
 
