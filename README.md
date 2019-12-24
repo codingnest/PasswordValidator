@@ -33,11 +33,13 @@ Required Named Argument.:
                         Please enter the Password
 
 Execution:-
+
 (base) C:\Users\admin\PycharmProjects\PasswordValidator>python validator.py -p Wel@1234
 24-Dec-19 22:21:35 - Password entered by User: Wel@1234
 24-Dec-19 22:21:35 - Valid Password, All checks done!!
 
 Test Case Execution:-
+
 (base) C:\Users\admin\PycharmProjects\PasswordValidator>python -m unittest test_validator.py -v
 test_atleast_one_alphanumeric_character (test_validator.PasswordValidatorTest) ... ok
 test_atleast_one_special_character (test_validator.PasswordValidatorTest) ... ok
